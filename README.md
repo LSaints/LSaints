@@ -1,5 +1,8 @@
-<div align="center">
-  <a href="https://github.com/LSaints">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LSaints&show_icons=true&theme=dracula&include_all_commits
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSaints&layout=compact&langs_count=7&theme=dra
-</div>
+<!---
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LSaints&theme=dark" />
+</a>
+--->
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LSaints&layout=compact&theme=dark&langs_count=8&card_width=320" />
+</a>
